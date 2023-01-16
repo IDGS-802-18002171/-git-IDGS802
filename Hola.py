@@ -1,2 +1,2 @@
 print ("Hola mundo")
-print ("More changes")
+print ("less changes")
